@@ -3,6 +3,7 @@
 A user-friendly personal finance application built with Python and Power BI to help individuals track expenses, manage budgets, and gain actionable insights into their spending habits.
 🚀 Project Overview
 Managing personal finances can be overwhelming without the right tools. Money Matters simplifies expense tracking and budgeting by automating categorization and providing clear visual dashboards — resulting in a 40% improvement in budgeting efficiency.
+
 ✨ Features
 📊 Interactive Power BI Dashboard — Real-time expense visualization by category, month, and trend
 🧹 Automated Data Cleaning — Python scripts clean and categorize raw transaction data
@@ -20,6 +21,7 @@ Power BI
 Interactive dashboard & reporting
 Excel / CSV
 Data input format
+
 📁 Project Structure
 money-matters-finance-app/
 │
